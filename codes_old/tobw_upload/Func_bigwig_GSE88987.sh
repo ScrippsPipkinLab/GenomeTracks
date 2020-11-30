@@ -1,0 +1,68 @@
+#!/bin/bash
+
+cd /Volumes/Huitian/Genombrower/flb_bdgaccuNORM
+
+bedgraphtobigwig GSE88987_Exhausted_rep1.bdg mm10.chrom.sizes GSE88987_Exhausted_rep1.bw
+
+bedgraphtobigwig GSE88987_Exhausted_rep2.bdg mm10.chrom.sizes GSE88987_Exhausted_rep2.bw
+
+bedgraphtobigwig GSE88987_Exhausted_rep3.bdg mm10.chrom.sizes GSE88987_Exhausted_rep3.bw
+
+bedgraphtobigwig GSE88987_invitro10U_rep1.bdg mm10.chrom.sizes GSE88987_invitro10U_rep1.bw
+
+bedgraphtobigwig GSE88987_invitro10U_rep2.bdg mm10.chrom.sizes GSE88987_invitro10U_rep2.bw
+
+bedgraphtobigwig GSE88987_invitro10UIono_rep1.bdg mm10.chrom.sizes GSE88987_invitro10UIono_rep1.bw
+
+bedgraphtobigwig GSE88987_invitro10UIono_rep2.bdg mm10.chrom.sizes GSE88987_invitro10UIono_rep2.bw
+
+bedgraphtobigwig GSE88987_invitro10UPMAIono_rep1.bdg mm10.chrom.sizes GSE88987_invitro10UPMAIono_rep1.bw
+
+bedgraphtobigwig GSE88987_invitro10UPMAIono_rep2.bdg mm10.chrom.sizes GSE88987_invitro10UPMAIono_rep2.bw
+
+bedgraphtobigwig GSE88987_invitro10UPMAIonoCsA_rep1.bdg mm10.chrom.sizes GSE88987_invitro10UPMAIonoCsA_rep1.bw
+
+bedgraphtobigwig GSE88987_invitro10UPMAIonoCsA_rep2.bdg mm10.chrom.sizes GSE88987_invitro10UPMAIonoCsA_rep2.bw
+
+bedgraphtobigwig GSE88987_invitro100U_rep1.bdg mm10.chrom.sizes GSE88987_invitro100U_rep1.bw
+
+bedgraphtobigwig GSE88987_invitro100U_rep2.bdg mm10.chrom.sizes GSE88987_invitro100U_rep2.bw
+
+bedgraphtobigwig GSE88987_invitroMock_rep1.bdg mm10.chrom.sizes GSE88987_invitroMock_rep1.bw
+
+bedgraphtobigwig GSE88987_invitroMock_rep2.bdg mm10.chrom.sizes GSE88987_invitroMock_rep2.bw
+
+bedgraphtobigwig GSE88987_invitroNFATCARIT_rep1.bdg mm10.chrom.sizes GSE88987_invitroNFATCARIT_rep1.bw
+
+bedgraphtobigwig GSE88987_invitroNFATCARIT_rep2.bdg mm10.chrom.sizes GSE88987_invitroNFATCARIT_rep2.bw
+
+bedgraphtobigwig GSE88987_invitroNFATCARITDBDmut_rep1.bdg mm10.chrom.sizes GSE88987_invitroNFATCARITDBDmut_rep1.bw
+
+bedgraphtobigwig GSE88987_invitroNFATCARITDBDmut_rep2.bdg mm10.chrom.sizes GSE88987_invitroNFATCARITDBDmut_rep2.bw
+
+bedgraphtobigwig GSE88987_Memory_rep1.bdg mm10.chrom.sizes GSE88987_Memory_rep1.bw
+
+bedgraphtobigwig GSE88987_Memory_rep2.bdg mm10.chrom.sizes GSE88987_Memory_rep2.bw
+
+bedgraphtobigwig GSE88987_MPEC_rep1.bdg mm10.chrom.sizes GSE88987_MPEC_rep1.bw
+
+bedgraphtobigwig GSE88987_MPEC_rep2.bdg mm10.chrom.sizes GSE88987_MPEC_rep2.bw
+
+bedgraphtobigwig GSE88987_MPEC_rep3.bdg mm10.chrom.sizes GSE88987_MPEC_rep3.bw
+
+bedgraphtobigwig GSE88987_Naive_rep1.bdg mm10.chrom.sizes GSE88987_Naive_rep1.bw
+
+bedgraphtobigwig GSE88987_Naive_rep2.bdg mm10.chrom.sizes GSE88987_Naive_rep2.bw
+
+bedgraphtobigwig GSE88987_Naive_rep3.bdg mm10.chrom.sizes GSE88987_Naive_rep3.bw
+
+bedgraphtobigwig GSE88987_Naive_rep4.bdg mm10.chrom.sizes GSE88987_Naive_rep4.bw
+
+bedgraphtobigwig GSE88987_Naive_rep5.bdg mm10.chrom.sizes GSE88987_Naive_rep5.bw
+
+bedgraphtobigwig GSE88987_SLEC_rep1.bdg mm10.chrom.sizes GSE88987_SLEC_rep1.bw
+
+bedgraphtobigwig GSE88987_SLEC_rep2.bdg mm10.chrom.sizes GSE88987_SLEC_rep2.bw
+
+bedgraphtobigwig GSE88987_SLEC_rep3.bdg mm10.chrom.sizes GSE88987_SLEC_rep3.bw
+

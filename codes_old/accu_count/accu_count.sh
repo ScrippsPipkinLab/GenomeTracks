@@ -1,0 +1,1 @@
+awk '{sum+=(($3-$2)*$4)} END {print sum}' inputfile > outputfile1.txt

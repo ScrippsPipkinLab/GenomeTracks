@@ -1,0 +1,1 @@
+awk '{print $1 "\t" $2 "\t" $3 "\t" int($4*sfactor)}' inputfile.bdg > inputfile_bdgaccuNORM.bdg

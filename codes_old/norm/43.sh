@@ -1,0 +1,2 @@
+cd /gpfs/home/hdiao/Geombrowser
+awk '{print $1 "\t" $2 "\t" $3 "\t" int($4*0.693125677)}' SLEC_SRR4435521_flt_fDsft_flb_macs.bed_treat_pileup_srt.bdg > SLEC_SRR4435521_flt_fDsft_flb_macs.bed_treat_pileup_srt_bdgaccuNORM.bdg

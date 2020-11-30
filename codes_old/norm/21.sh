@@ -1,0 +1,2 @@
+cd /gpfs/home/hdiao/Geombrowser
+awk '{print $1 "\t" $2 "\t" $3 "\t" int($4*0.436209614)}' B2_169_9_flt_sft_macs.bed_treat_pileup_sorted_flb.bdg > B2_169_9_flt_sft_macs.bed_treat_pileup_sorted_flb_bdgaccuNORM.bdg
