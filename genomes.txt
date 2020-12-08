@@ -1,0 +1,2 @@
+genome mm10
+trackDb 2018_ChIP_ATAC/trackDb.txt

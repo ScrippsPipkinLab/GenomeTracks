@@ -1,0 +1,6 @@
+hub Pipkin_ATAC_ChIP_2018
+shortLabel Pipkin_ATAC_ChIP_2018
+longLabel Pipkin_ATAC_ChIP_2018
+genomesFile genomes.txt
+email mpipkin@scripps.edu
+descriptionUrl https://github.com/ScrippsPipkinLab/GenomeTracks
