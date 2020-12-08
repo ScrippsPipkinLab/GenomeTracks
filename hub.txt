@@ -1,6 +1,6 @@
-hub Pipkin_ATAC_ChIP_2018
-shortLabel Pipkin_ATAC_ChIP_2018
-longLabel Pipkin_ATAC_ChIP_2018
+hub CD8_ATAC_ChIP_Pipkin
+shortLabel CD8_ATAC_ChIP_Pipkin
+longLabel CD8 T cell ATACseq ChIPseq assembly by Pipkin lab
 genomesFile genomes.txt
 email mpipkin@scripps.edu
 descriptionUrl https://github.com/ScrippsPipkinLab/GenomeTracks
