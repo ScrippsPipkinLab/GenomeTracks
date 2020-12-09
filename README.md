@@ -1,7 +1,7 @@
 # CD8 T cell ATAC-seq & ChIP-seq Tracks
 > Maintained by: Pipkin Lab; Contact: mpipkin@scripps.edu <br>
 
-- This is a repository of ATAC-seq genome tracks of murine CD8 T cells, together with ChIP-seq tracks of important transcription factors in CD8 T cells
+- This is a repository of **ATAC-seq** genome tracks of **murine CD8 T cells**, together with **ChIP-seq** tracks of important transcription factors in CD8 T cells
 - Considering citing [Immunity 2018](https://www.cell.com/immunity/comments/S1074-7613(18)30126-2). 
 
 ### ATAC-seq of murine CD8 T cells
