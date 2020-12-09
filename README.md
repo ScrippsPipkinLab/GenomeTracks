@@ -1,6 +1,6 @@
 # T cell ATAC-seq & ChIP-seq Tracks
 > Contact: mpipkin@scripps.edu <br>
-> Supported by NIAID P01: Transcription factor regulation of CD4 and CD8 T cell effector and memory differentiation and function 
+> Supported by NIAID #1P01AI145815-01A1: Transcription factor regulation of CD4 and CD8 T cell effector and memory differentiation and function 
 
 - **CD8+ T cells** play a key role in anti-viral and anti-tumor immune responses. Upon stimulation, antigen inexperienced naïve CD8+ T cells undergo rapid expansion and extensive **chromatin landscape remodeling** & transcriptional profile reprogramming, leading to formation of different phenotypes. <br>
 - This is a repository of **ATAC-seq** genome tracks of **murine CD8 T cells**, together with **ChIP-seq** tracks of important transcription factors in CD8 T cells. It can be used as a reference for **CD8 T cell chromatin landscape** at different stages of development / phenotypes. <br>
