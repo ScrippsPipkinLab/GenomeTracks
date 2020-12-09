@@ -3,7 +3,6 @@ bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_
 shortLabel ChIP_BATF
 longLabel ChIP_BATF
 type bigWig
-html ../hub_info.html
 
 track ChIP_Bach2
 bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Bach2.bw?raw=true
