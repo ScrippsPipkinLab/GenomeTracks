@@ -4,6 +4,8 @@
 - This is a repository of **ATAC-seq** genome tracks of **murine CD8 T cells**, together with **ChIP-seq** tracks of important transcription factors in CD8 T cells
 - Considering citing [Immunity 2018](https://www.cell.com/immunity/comments/S1074-7613(18)30126-2). 
 
+![Scheme](https://user-images.githubusercontent.com/26311995/101567079-2e56f980-399e-11eb-8797-95dab572fa6f.png)
+
 ### ATAC-seq of murine CD8 T cells
 1. In vitro TCR stimulation time points: 
   - 0, 2, 6, 12, 24 hours
