@@ -1,8 +1,8 @@
 # CD8 T cell ATAC-seq & ChIP-seq Tracks
 > Contact: mpipkin@scripps.edu <br>
 
-- **CD8+ T cells** play a key role in anti-viral and anti-tumor immune responses. Upon stimulation, antigen inexperienced naïve CD8+ T cells undergo rapid expansion and extensive **chromatin landscape** & transcriptional profile remodeling, forming different phenotypes. <br>
-- This is a repository of **ATAC-seq** genome tracks of **murine CD8 T cells**, together with **ChIP-seq** tracks of important transcription factors in CD8 T cells. It can be used as a reference for **CD8 T cell chromatin landscape** at different stages of development & from different phenotypes. <br>
+- **CD8+ T cells** play a key role in anti-viral and anti-tumor immune responses. Upon stimulation, antigen inexperienced naïve CD8+ T cells undergo rapid expansion and extensive **chromatin landscape remodeling** & transcriptional profile reprogramming, leading to formation of different phenotypes. <br>
+- This is a repository of **ATAC-seq** genome tracks of **murine CD8 T cells**, together with **ChIP-seq** tracks of important transcription factors in CD8 T cells. It can be used as a reference for **CD8 T cell chromatin landscape** at different stages of development / phenotypes. <br>
 - Considering citing [Immunity (2018)](https://www.cell.com/immunity/comments/S1074-7613(18)30126-2).  <br>
 <br>
 
