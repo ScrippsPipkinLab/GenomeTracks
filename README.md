@@ -7,7 +7,7 @@
 
 ![Scheme](https://user-images.githubusercontent.com/26311995/101567390-b6d59a00-399e-11eb-93cb-63fed2b2c0dc.png)
 
-### ATAC-seq of murine CD8 T cells
+## ATAC-seq of murine CD8 T cells
 1. In vitro TCR stimulation time points: 
   - 0, 2, 6, 12, 24 hours
   - WT and Runx3KO P14 cells
@@ -20,7 +20,7 @@
   - Naive, MPEC, SLEC, Memory, Exhausted
   - GEO accession number: GSE88987
   
-### Reference ChIP-seq of key transcription factors
+## Reference ChIP-seq of key transcription factors
 Bach2
 BATF
 cJun
