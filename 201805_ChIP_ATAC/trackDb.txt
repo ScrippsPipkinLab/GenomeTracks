@@ -1,5 +1,5 @@
 track ChIP_BATF
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_BATF.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_BATF.bw?raw=true
 shortLabel ChIP_BATF
 longLabel ChIP_BATF
 type bigWig
@@ -8,7 +8,7 @@ autoScale on
 visibility full
 
 track ChIP_Bach2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Bach2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Bach2.bw?raw=true
 shortLabel ChIP_Bach2
 longLabel ChIP_Bach2
 type bigWig
@@ -17,7 +17,7 @@ autoScale on
 visibility hide
 
 track ChIP_IRF4
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_IRF4.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_IRF4.bw?raw=true
 shortLabel ChIP_IRF4
 longLabel ChIP_IRF4
 type bigWig
@@ -26,7 +26,7 @@ autoScale on
 visibility full
 
 track ChIP_JunB
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_JunB.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_JunB.bw?raw=true
 shortLabel ChIP_JunB
 longLabel ChIP_JunB
 type bigWig
@@ -35,7 +35,7 @@ autoScale on
 visibility hide
 
 track ChIP_JunD
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_JunD.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_JunD.bw?raw=true
 shortLabel ChIP_JunD
 longLabel ChIP_JunD
 type bigWig
@@ -44,7 +44,7 @@ autoScale on
 visibility hide
 
 track ChIP_Runx3_d6
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Runx3_d6.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Runx3_d6.bw?raw=true
 shortLabel ChIP_Runx3_d6
 longLabel ChIP_Runx3_d6
 type bigWig
@@ -53,7 +53,7 @@ autoScale on
 visibility hide
 
 track ChIP_Runx3_ex_vivo
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Runx3_ex_vivo.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Runx3_ex_vivo.bw?raw=true
 shortLabel ChIP_Runx3_ex_vivo
 longLabel ChIP_Runx3_ex_vivo
 type bigWig
@@ -62,7 +62,7 @@ autoScale on
 visibility hide
 
 track ChIP_Stat5A
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Stat5A.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Stat5A.bw?raw=true
 shortLabel ChIP_Stat5A
 longLabel ChIP_Stat5A
 type bigWig
@@ -71,7 +71,7 @@ autoScale on
 visibility hide
 
 track ChIP_Stat5B
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Stat5B.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Stat5B.bw?raw=true
 shortLabel ChIP_Stat5B
 longLabel ChIP_Stat5B
 type bigWig
@@ -80,7 +80,7 @@ autoScale on
 visibility hide
 
 track ChIP_Tcf7
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Tcf7.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Tcf7.bw?raw=true
 shortLabel ChIP_Tcf7
 longLabel ChIP_Tcf7
 type bigWig
@@ -89,7 +89,7 @@ autoScale on
 visibility hide
 
 track ChIP_cJun
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_cJun.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_cJun.bw?raw=true
 shortLabel ChIP_cJun
 longLabel ChIP_cJun
 type bigWig
@@ -98,7 +98,7 @@ autoScale on
 visibility hide
 
 track ChIP_tbet
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_tbet.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_tbet.bw?raw=true
 shortLabel ChIP_tbet
 longLabel ChIP_tbet
 type bigWig
@@ -107,7 +107,7 @@ autoScale on
 visibility hide
 
 track Runx3KO_0h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_0h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_0h_rep1.bw?raw=true
 shortLabel Runx3KO_0h_rep1
 longLabel Exp169_KO_0h_rep1
 type bigWig
@@ -116,7 +116,7 @@ autoScale on
 visibility full
 
 track Runx3KO_0h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_0h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_0h_rep2.bw?raw=true
 shortLabel Runx3KO_0h_rep2
 longLabel Exp169_KO_0h_rep2
 type bigWig
@@ -125,7 +125,7 @@ autoScale on
 visibility hide
 
 track Runx3KO_2h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_2h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_2h_rep1.bw?raw=true
 shortLabel Runx3KO_2h_rep1
 longLabel Exp169_KO_2h_rep1
 type bigWig
@@ -134,7 +134,7 @@ autoScale on
 visibility full
 
 track Runx3KO_2h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_2h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_2h_rep2.bw?raw=true
 shortLabel Runx3KO_2h_rep2
 longLabel Exp169_KO_2h_rep2
 type bigWig
@@ -143,7 +143,7 @@ autoScale on
 visibility hide
 
 track Runx3KO_6h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_6h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_6h_rep1.bw?raw=true
 shortLabel Runx3KO_6h_rep1
 longLabel Exp169_KO_6h_rep1
 type bigWig
@@ -152,7 +152,7 @@ autoScale on
 visibility full
 
 track Runx3KO_6h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_6h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_6h_rep2.bw?raw=true
 shortLabel Runx3KO_6h_rep2
 longLabel Exp169_KO_6h_rep2
 type bigWig
@@ -161,7 +161,7 @@ autoScale on
 visibility hide
 
 track Runx3KO_12h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_12h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_12h_rep1.bw?raw=true
 shortLabel Runx3KO_12h_rep1
 longLabel Exp169_KO_12h_rep1
 type bigWig
@@ -170,7 +170,7 @@ autoScale on
 visibility full
 
 track Runx3KO_12h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_12h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_12h_rep2.bw?raw=true
 shortLabel Runx3KO_12h_rep2
 longLabel Exp169_KO_12h_rep2
 type bigWig
@@ -179,7 +179,7 @@ autoScale on
 visibility hide
 
 track Runx3KO_24h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_24h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_24h_rep1.bw?raw=true
 shortLabel Runx3KO_24h_rep1
 longLabel Exp169_KO_24h_rep1
 type bigWig
@@ -188,7 +188,7 @@ autoScale on
 visibility full
 
 track Runx3KO_24h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_24h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_24h_rep2.bw?raw=true
 shortLabel Runx3KO_24h_rep2
 longLabel Exp169_KO_24h_rep2
 type bigWig
@@ -197,7 +197,7 @@ autoScale on
 visibility hide
 
 track Runx3WT_0h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep1.bw?raw=true
 shortLabel Runx3WT_0h_rep1
 longLabel Exp169_WT_0h_rep1
 type bigWig
@@ -206,7 +206,7 @@ autoScale on
 visibility full
 
 track Runx3WT_0h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep2.bw?raw=true
 shortLabel Runx3WT_0h_rep2
 longLabel Exp169_WT_0h_rep2
 type bigWig
@@ -215,7 +215,7 @@ autoScale on
 visibility hide
 
 track Runx3WT_0h_rep3
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep3.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep3.bw?raw=true
 shortLabel Runx3WT_0h_rep3
 longLabel Exp169_WT_0h_rep3
 type bigWig
@@ -224,7 +224,7 @@ autoScale on
 visibility hide
 
 track Runx3WT_0h_rep4
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep4.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep4.bw?raw=true
 shortLabel Runx3WT_0h_rep4
 longLabel Exp169_WT_0h_rep4
 type bigWig
@@ -233,7 +233,7 @@ autoScale on
 visibility hide
 
 track Runx3WT_2h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_2h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_2h_rep1.bw?raw=true
 shortLabel Runx3WT_2h_rep1
 longLabel Exp169_WT_2h_rep1
 type bigWig
@@ -242,7 +242,7 @@ autoScale on
 visibility full
 
 track Runx3WT_2h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_2h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_2h_rep2.bw?raw=true
 shortLabel Runx3WT_2h_rep2
 longLabel Exp169_WT_2h_rep2
 type bigWig
@@ -251,7 +251,7 @@ autoScale on
 visibility hide
 
 track Runx3WT_6h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_6h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_6h_rep1.bw?raw=true
 shortLabel Runx3WT_6h_rep1
 longLabel Exp169_WT_6h_rep1
 type bigWig
@@ -260,7 +260,7 @@ autoScale on
 visibility full
 
 track Runx3WT_6h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_6h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_6h_rep2.bw?raw=true
 shortLabel Runx3WT_6h_rep2
 longLabel Exp169_WT_6h_rep2
 type bigWig
@@ -269,7 +269,7 @@ autoScale on
 visibility hide
 
 track Runx3WT_12h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_12h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_12h_rep1.bw?raw=true
 shortLabel Runx3WT_12h_rep1
 longLabel Exp169_WT_12h_rep1
 type bigWig
@@ -278,7 +278,7 @@ autoScale on
 visibility full
 
 track Runx3WT_12h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_12h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_12h_rep2.bw?raw=true
 shortLabel Runx3WT_12h_rep2
 longLabel Exp169_WT_12h_rep2
 type bigWig
@@ -287,7 +287,7 @@ autoScale on
 visibility hide
 
 track Runx3WT_24h_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_24h_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_24h_rep1.bw?raw=true
 shortLabel Runx3WT_24h_rep1
 longLabel Exp169_WT_24h_rep1
 type bigWig
@@ -296,7 +296,7 @@ autoScale on
 visibility full
 
 track Runx3WT_24h_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_24h_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_24h_rep2.bw?raw=true
 shortLabel Runx3WT_24h_rep2
 longLabel Exp169_WT_24h_rep2
 type bigWig
@@ -305,7 +305,7 @@ autoScale on
 visibility hide
 
 track Exhausted_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep1.bw?raw=true
 shortLabel Exhausted_rep1
 longLabel GSE88987_Exhausted_rep1
 type bigWig
@@ -314,7 +314,7 @@ autoScale on
 visibility hide
 
 track Exhausted_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep2.bw?raw=true
 shortLabel Exhausted_rep2
 longLabel GSE88987_Exhausted_rep2
 type bigWig
@@ -323,7 +323,7 @@ autoScale on
 visibility hide
 
 track Exhausted_rep3
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep3.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep3.bw?raw=true
 shortLabel Exhausted_rep3
 longLabel GSE88987_Exhausted_rep3
 type bigWig
@@ -332,7 +332,7 @@ autoScale on
 visibility hide
 
 track MPEC_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep1.bw?raw=true
 shortLabel MPEC_rep1
 longLabel GSE88987_MPEC_rep1
 type bigWig
@@ -341,7 +341,7 @@ autoScale on
 visibility hide
 
 track MPEC_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep2.bw?raw=true
 shortLabel MPEC_rep2
 longLabel GSE88987_MPEC_rep2
 type bigWig
@@ -350,7 +350,7 @@ autoScale on
 visibility hide
 
 track MPEC_rep3
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep3.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep3.bw?raw=true
 shortLabel MPEC_rep3
 longLabel GSE88987_MPEC_rep3
 type bigWig
@@ -359,7 +359,7 @@ autoScale on
 visibility hide
 
 track Memory_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Memory_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Memory_rep1.bw?raw=true
 shortLabel Memory_rep1
 longLabel GSE88987_Memory_rep1
 type bigWig
@@ -368,7 +368,7 @@ autoScale on
 visibility hide
 
 track Memory_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Memory_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Memory_rep2.bw?raw=true
 shortLabel Memory_rep2
 longLabel GSE88987_Memory_rep2
 type bigWig
@@ -377,7 +377,7 @@ autoScale on
 visibility hide
 
 track Naive_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep1.bw?raw=true
 shortLabel Naive_rep1
 longLabel GSE88987_Naive_rep1
 type bigWig
@@ -386,7 +386,7 @@ autoScale on
 visibility hide
 
 track Naive_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep2.bw?raw=true
 shortLabel Naive_rep2
 longLabel GSE88987_Naive_rep2
 type bigWig
@@ -395,7 +395,7 @@ autoScale on
 visibility hide
 
 track Naive_rep3
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep3.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep3.bw?raw=true
 shortLabel Naive_rep3
 longLabel GSE88987_Naive_rep3
 type bigWig
@@ -404,7 +404,7 @@ autoScale on
 visibility hide
 
 track Naive_rep4
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep4.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep4.bw?raw=true
 shortLabel Naive_rep4
 longLabel GSE88987_Naive_rep4
 type bigWig
@@ -413,7 +413,7 @@ autoScale on
 visibility hide
 
 track Naive_rep5
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep5.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep5.bw?raw=true
 shortLabel Naive_rep5
 longLabel GSE88987_Naive_rep5
 type bigWig
@@ -422,7 +422,7 @@ autoScale on
 visibility hide
 
 track SLEC_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep1.bw?raw=true
 shortLabel SLEC_rep1
 longLabel GSE88987_SLEC_rep1
 type bigWig
@@ -431,7 +431,7 @@ autoScale on
 visibility hide
 
 track SLEC_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep2.bw?raw=true
 shortLabel SLEC_rep2
 longLabel GSE88987_SLEC_rep2
 type bigWig
@@ -440,7 +440,7 @@ autoScale on
 visibility hide
 
 track SLEC_rep3
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep3.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep3.bw?raw=true
 shortLabel SLEC_rep3
 longLabel GSE88987_SLEC_rep3
 type bigWig
@@ -449,7 +449,7 @@ autoScale on
 visibility hide
 
 track invitro100U_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro100U_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro100U_rep1.bw?raw=true
 shortLabel invitro100U_rep1
 longLabel GSE88987_invitro100U_rep1
 type bigWig
@@ -458,7 +458,7 @@ autoScale on
 visibility hide
 
 track invitro100U_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro100U_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro100U_rep2.bw?raw=true
 shortLabel invitro100U_rep2
 longLabel GSE88987_invitro100U_rep2
 type bigWig
@@ -467,7 +467,7 @@ autoScale on
 visibility hide
 
 track invitro10UIono_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UIono_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UIono_rep1.bw?raw=true
 shortLabel invitro10UIono_rep1
 longLabel GSE88987_invitro10UIono_rep1
 type bigWig
@@ -476,7 +476,7 @@ autoScale on
 visibility hide
 
 track invitro10UIono_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UIono_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UIono_rep2.bw?raw=true
 shortLabel invitro10UIono_rep2
 longLabel GSE88987_invitro10UIono_rep2
 type bigWig
@@ -485,7 +485,7 @@ autoScale on
 visibility hide
 
 track invitro10UPMAIonoCsA_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIonoCsA_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIonoCsA_rep1.bw?raw=true
 shortLabel invitro10UPMAIonoCsA_rep1
 longLabel GSE88987_invitro10UPMAIonoCsA_rep1
 type bigWig
@@ -494,7 +494,7 @@ autoScale on
 visibility hide
 
 track invitro10UPMAIonoCsA_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIonoCsA_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIonoCsA_rep2.bw?raw=true
 shortLabel invitro10UPMAIonoCsA_rep2
 longLabel GSE88987_invitro10UPMAIonoCsA_rep2
 type bigWig
@@ -503,7 +503,7 @@ autoScale on
 visibility hide
 
 track invitro10UPMAIono_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIono_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIono_rep1.bw?raw=true
 shortLabel invitro10UPMAIono_rep1
 longLabel GSE88987_invitro10UPMAIono_rep1
 type bigWig
@@ -512,7 +512,7 @@ autoScale on
 visibility hide
 
 track invitro10UPMAIono_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIono_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIono_rep2.bw?raw=true
 shortLabel invitro10UPMAIono_rep2
 longLabel GSE88987_invitro10UPMAIono_rep2
 type bigWig
@@ -521,7 +521,7 @@ autoScale on
 visibility hide
 
 track invitro10U_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10U_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10U_rep1.bw?raw=true
 shortLabel invitro10U_rep1
 longLabel GSE88987_invitro10U_rep1
 type bigWig
@@ -530,7 +530,7 @@ autoScale on
 visibility hide
 
 track invitro10U_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10U_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10U_rep2.bw?raw=true
 shortLabel invitro10U_rep2
 longLabel GSE88987_invitro10U_rep2
 type bigWig
@@ -539,7 +539,7 @@ autoScale on
 visibility hide
 
 track invitroMock_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroMock_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroMock_rep1.bw?raw=true
 shortLabel invitroMock_rep1
 longLabel GSE88987_invitroMock_rep1
 type bigWig
@@ -548,7 +548,7 @@ autoScale on
 visibility hide
 
 track invitroMock_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroMock_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroMock_rep2.bw?raw=true
 shortLabel invitroMock_rep2
 longLabel GSE88987_invitroMock_rep2
 type bigWig
@@ -557,7 +557,7 @@ autoScale on
 visibility hide
 
 track invitroNFATCARITDBDmut_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARITDBDmut_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARITDBDmut_rep1.bw?raw=true
 shortLabel invitroNFATCARITDBDmut_rep1
 longLabel GSE88987_invitroNFATCARITDBDmut_rep1
 type bigWig
@@ -566,7 +566,7 @@ autoScale on
 visibility hide
 
 track invitroNFATCARITDBDmut_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARITDBDmut_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARITDBDmut_rep2.bw?raw=true
 shortLabel invitroNFATCARITDBDmut_rep2
 longLabel GSE88987_invitroNFATCARITDBDmut_rep2
 type bigWig
@@ -575,7 +575,7 @@ autoScale on
 visibility hide
 
 track invitroNFATCARIT_rep1
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARIT_rep1.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARIT_rep1.bw?raw=true
 shortLabel invitroNFATCARIT_rep1
 longLabel GSE88987_invitroNFATCARIT_rep1
 type bigWig
@@ -584,7 +584,7 @@ autoScale on
 visibility hide
 
 track invitroNFATCARIT_rep2
-bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/2018_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARIT_rep2.bw?raw=true
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARIT_rep2.bw?raw=true
 shortLabel invitroNFATCARIT_rep2
 longLabel GSE88987_invitroNFATCARIT_rep2
 type bigWig
