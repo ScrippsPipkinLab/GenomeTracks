@@ -1,3 +1,2 @@
 genome mm10
-trackDb 201805_ChIP_ATAC/trackDb.txt
-trackDb 202102_ChIP/trackDb.txt
+trackDb trackDb.txt

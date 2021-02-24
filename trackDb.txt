@@ -1,0 +1,1467 @@
+track ChIP_BATF
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_BATF.bw?raw=true
+shortLabel ChIP_BATF
+longLabel ChIP_BATF
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track ChIP_Bach2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Bach2.bw?raw=true
+shortLabel ChIP_Bach2
+longLabel ChIP_Bach2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_IRF4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_IRF4.bw?raw=true
+shortLabel ChIP_IRF4
+longLabel ChIP_IRF4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track ChIP_JunB
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_JunB.bw?raw=true
+shortLabel ChIP_JunB
+longLabel ChIP_JunB
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_JunD
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_JunD.bw?raw=true
+shortLabel ChIP_JunD
+longLabel ChIP_JunD
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_Runx3_d6
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Runx3_d6.bw?raw=true
+shortLabel ChIP_Runx3_d6
+longLabel ChIP_Runx3_d6
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_Runx3_ex_vivo
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Runx3_ex_vivo.bw?raw=true
+shortLabel ChIP_Runx3_ex_vivo
+longLabel ChIP_Runx3_ex_vivo
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_Stat5A
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Stat5A.bw?raw=true
+shortLabel ChIP_Stat5A
+longLabel ChIP_Stat5A
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_Stat5B
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Stat5B.bw?raw=true
+shortLabel ChIP_Stat5B
+longLabel ChIP_Stat5B
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_Tcf7
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_Tcf7.bw?raw=true
+shortLabel ChIP_Tcf7
+longLabel ChIP_Tcf7
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_cJun
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_cJun.bw?raw=true
+shortLabel ChIP_cJun
+longLabel ChIP_cJun
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track ChIP_tbet
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/ChIP_tbet.bw?raw=true
+shortLabel ChIP_tbet
+longLabel ChIP_tbet
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3KO_0h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_0h_rep1.bw?raw=true
+shortLabel Runx3KO_0h_rep1
+longLabel Exp169_KO_0h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3KO_0h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_0h_rep2.bw?raw=true
+shortLabel Runx3KO_0h_rep2
+longLabel Exp169_KO_0h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3KO_2h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_2h_rep1.bw?raw=true
+shortLabel Runx3KO_2h_rep1
+longLabel Exp169_KO_2h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3KO_2h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_2h_rep2.bw?raw=true
+shortLabel Runx3KO_2h_rep2
+longLabel Exp169_KO_2h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3KO_6h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_6h_rep1.bw?raw=true
+shortLabel Runx3KO_6h_rep1
+longLabel Exp169_KO_6h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3KO_6h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_6h_rep2.bw?raw=true
+shortLabel Runx3KO_6h_rep2
+longLabel Exp169_KO_6h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3KO_12h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_12h_rep1.bw?raw=true
+shortLabel Runx3KO_12h_rep1
+longLabel Exp169_KO_12h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3KO_12h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_12h_rep2.bw?raw=true
+shortLabel Runx3KO_12h_rep2
+longLabel Exp169_KO_12h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3KO_24h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_24h_rep1.bw?raw=true
+shortLabel Runx3KO_24h_rep1
+longLabel Exp169_KO_24h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3KO_24h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_KO_24h_rep2.bw?raw=true
+shortLabel Runx3KO_24h_rep2
+longLabel Exp169_KO_24h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3WT_0h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep1.bw?raw=true
+shortLabel Runx3WT_0h_rep1
+longLabel Exp169_WT_0h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3WT_0h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep2.bw?raw=true
+shortLabel Runx3WT_0h_rep2
+longLabel Exp169_WT_0h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3WT_0h_rep3
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep3.bw?raw=true
+shortLabel Runx3WT_0h_rep3
+longLabel Exp169_WT_0h_rep3
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3WT_0h_rep4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_0h_rep4.bw?raw=true
+shortLabel Runx3WT_0h_rep4
+longLabel Exp169_WT_0h_rep4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3WT_2h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_2h_rep1.bw?raw=true
+shortLabel Runx3WT_2h_rep1
+longLabel Exp169_WT_2h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3WT_2h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_2h_rep2.bw?raw=true
+shortLabel Runx3WT_2h_rep2
+longLabel Exp169_WT_2h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3WT_6h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_6h_rep1.bw?raw=true
+shortLabel Runx3WT_6h_rep1
+longLabel Exp169_WT_6h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3WT_6h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_6h_rep2.bw?raw=true
+shortLabel Runx3WT_6h_rep2
+longLabel Exp169_WT_6h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3WT_12h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_12h_rep1.bw?raw=true
+shortLabel Runx3WT_12h_rep1
+longLabel Exp169_WT_12h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3WT_12h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_12h_rep2.bw?raw=true
+shortLabel Runx3WT_12h_rep2
+longLabel Exp169_WT_12h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Runx3WT_24h_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_24h_rep1.bw?raw=true
+shortLabel Runx3WT_24h_rep1
+longLabel Exp169_WT_24h_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track Runx3WT_24h_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/Exp169_WT_24h_rep2.bw?raw=true
+shortLabel Runx3WT_24h_rep2
+longLabel Exp169_WT_24h_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Exhausted_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep1.bw?raw=true
+shortLabel Exhausted_rep1
+longLabel GSE88987_Exhausted_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Exhausted_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep2.bw?raw=true
+shortLabel Exhausted_rep2
+longLabel GSE88987_Exhausted_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Exhausted_rep3
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Exhausted_rep3.bw?raw=true
+shortLabel Exhausted_rep3
+longLabel GSE88987_Exhausted_rep3
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track MPEC_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep1.bw?raw=true
+shortLabel MPEC_rep1
+longLabel GSE88987_MPEC_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track MPEC_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep2.bw?raw=true
+shortLabel MPEC_rep2
+longLabel GSE88987_MPEC_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track MPEC_rep3
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_MPEC_rep3.bw?raw=true
+shortLabel MPEC_rep3
+longLabel GSE88987_MPEC_rep3
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Memory_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Memory_rep1.bw?raw=true
+shortLabel Memory_rep1
+longLabel GSE88987_Memory_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Memory_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Memory_rep2.bw?raw=true
+shortLabel Memory_rep2
+longLabel GSE88987_Memory_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Naive_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep1.bw?raw=true
+shortLabel Naive_rep1
+longLabel GSE88987_Naive_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Naive_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep2.bw?raw=true
+shortLabel Naive_rep2
+longLabel GSE88987_Naive_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Naive_rep3
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep3.bw?raw=true
+shortLabel Naive_rep3
+longLabel GSE88987_Naive_rep3
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Naive_rep4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep4.bw?raw=true
+shortLabel Naive_rep4
+longLabel GSE88987_Naive_rep4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track Naive_rep5
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_Naive_rep5.bw?raw=true
+shortLabel Naive_rep5
+longLabel GSE88987_Naive_rep5
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track SLEC_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep1.bw?raw=true
+shortLabel SLEC_rep1
+longLabel GSE88987_SLEC_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track SLEC_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep2.bw?raw=true
+shortLabel SLEC_rep2
+longLabel GSE88987_SLEC_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track SLEC_rep3
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_SLEC_rep3.bw?raw=true
+shortLabel SLEC_rep3
+longLabel GSE88987_SLEC_rep3
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro100U_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro100U_rep1.bw?raw=true
+shortLabel invitro100U_rep1
+longLabel GSE88987_invitro100U_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro100U_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro100U_rep2.bw?raw=true
+shortLabel invitro100U_rep2
+longLabel GSE88987_invitro100U_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro10UIono_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UIono_rep1.bw?raw=true
+shortLabel invitro10UIono_rep1
+longLabel GSE88987_invitro10UIono_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro10UIono_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UIono_rep2.bw?raw=true
+shortLabel invitro10UIono_rep2
+longLabel GSE88987_invitro10UIono_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro10UPMAIonoCsA_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIonoCsA_rep1.bw?raw=true
+shortLabel invitro10UPMAIonoCsA_rep1
+longLabel GSE88987_invitro10UPMAIonoCsA_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro10UPMAIonoCsA_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIonoCsA_rep2.bw?raw=true
+shortLabel invitro10UPMAIonoCsA_rep2
+longLabel GSE88987_invitro10UPMAIonoCsA_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro10UPMAIono_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIono_rep1.bw?raw=true
+shortLabel invitro10UPMAIono_rep1
+longLabel GSE88987_invitro10UPMAIono_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro10UPMAIono_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10UPMAIono_rep2.bw?raw=true
+shortLabel invitro10UPMAIono_rep2
+longLabel GSE88987_invitro10UPMAIono_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro10U_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10U_rep1.bw?raw=true
+shortLabel invitro10U_rep1
+longLabel GSE88987_invitro10U_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitro10U_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitro10U_rep2.bw?raw=true
+shortLabel invitro10U_rep2
+longLabel GSE88987_invitro10U_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitroMock_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroMock_rep1.bw?raw=true
+shortLabel invitroMock_rep1
+longLabel GSE88987_invitroMock_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitroMock_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroMock_rep2.bw?raw=true
+shortLabel invitroMock_rep2
+longLabel GSE88987_invitroMock_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitroNFATCARITDBDmut_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARITDBDmut_rep1.bw?raw=true
+shortLabel invitroNFATCARITDBDmut_rep1
+longLabel GSE88987_invitroNFATCARITDBDmut_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitroNFATCARITDBDmut_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARITDBDmut_rep2.bw?raw=true
+shortLabel invitroNFATCARITDBDmut_rep2
+longLabel GSE88987_invitroNFATCARITDBDmut_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitroNFATCARIT_rep1
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARIT_rep1.bw?raw=true
+shortLabel invitroNFATCARIT_rep1
+longLabel GSE88987_invitroNFATCARIT_rep1
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track invitroNFATCARIT_rep2
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/201805_ChIP_ATAC/flb_bdgaccuNORM_bw/GSE88987_invitroNFATCARIT_rep2.bw?raw=true
+shortLabel invitroNFATCARIT_rep2
+longLabel GSE88987_invitroNFATCARIT_rep2
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2013_IMMUNITY_KIM___Foxo1_Biotin_naive-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2013_IMMUNITY_KIM___Foxo1_Biotin_naive-CD8-WT.bw?raw=true
+shortLabel Foxo1_Biotin_naive-CD8-WT
+longLabel 2013_IMMUNITY_KIM___Foxo1_Biotin_naive-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2013_IMMUNITY_KIM___Foxo1_naive-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2013_IMMUNITY_KIM___Foxo1_naive-CD8-WT.bw?raw=true
+shortLabel Foxo1_naive-CD8-WT
+longLabel 2013_IMMUNITY_KIM___Foxo1_naive-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2013_PLOS_ONE_Lotem___H3K4me1_invitro-Il2-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2013_PLOS_ONE_Lotem___H3K4me1_invitro-Il2-CD8.bw?raw=true
+shortLabel H3K4me1_invitro-Il2-CD8
+longLabel 2013_PLOS_ONE_Lotem___H3K4me1_invitro-Il2-CD8
+type bigWig
+html ./hub_info.html
+type bigWig
+autoScale on
+visibility hide
+
+track 2013_PLOS_ONE_Lotem___H3K4me1_invitro-NAV-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2013_PLOS_ONE_Lotem___H3K4me1_invitro-NAV-CD8.bw?raw=true
+shortLabel H3K4me1_invitro-NAV-CD8
+longLabel 2013_PLOS_ONE_Lotem___H3K4me1_invitro-NAV-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2013_PLOS_ONE_Lotem___Runx3_invitro-Il2-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2013_PLOS_ONE_Lotem___Runx3_invitro-Il2-CD8.bw?raw=true
+shortLabel Runx3_invitro-Il2-CD8
+longLabel 2013_PLOS_ONE_Lotem___Runx3_invitro-Il2-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2013_PLOS_ONE_Lotem___Runx3_invitro-NAV-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2013_PLOS_ONE_Lotem___Runx3_invitro-NAV-CD8.bw?raw=true
+shortLabel Runx3_invitro-NAV-CD8
+longLabel 2013_PLOS_ONE_Lotem___Runx3_invitro-NAV-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___BATF-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___BATF-invitro-d3-CD8.bw?raw=true
+shortLabel BATF-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___BATF-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___H3-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___H3-invitro-d3-CD8.bw?raw=true
+shortLabel H3-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___H3-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___H3K27ac-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___H3K27ac-invitro-d3-CD8.bw?raw=true
+shortLabel H3K27ac-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___H3K27ac-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___H3K27me3-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___H3K27me3-invitro-d3-CD8.bw?raw=true
+shortLabel H3K27me3-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___H3K27me3-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___H3K36me3-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___H3K36me3-invitro-d3-CD8.bw?raw=true
+shortLabel H3K36me3-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___H3K36me3-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___H3K4me1-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___H3K4me1-invitro-d3-CD8.bw?raw=true
+shortLabel H3K4me1-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___H3K4me1-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___H3K4me3-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___H3K4me3-invitro-d3-CD8.bw?raw=true
+shortLabel H3K4me3-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___H3K4me3-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___IRF4-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___IRF4-invitro-d3-CD8.bw?raw=true
+shortLabel IRF4-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___IRF4-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___IgG-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___IgG-invitro-d3-CD8.bw?raw=true
+shortLabel IgG-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___IgG-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___JunB-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___JunB-invitro-d3-CD8.bw?raw=true
+shortLabel JunB-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___JunB-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___JunD-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___JunD-invitro-d3-CD8.bw?raw=true
+shortLabel JunD-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___JunD-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2014_NAT_IMMUNOL_Kurachi___cJun-invitro-d3-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2014_NAT_IMMUNOL_Kurachi___cJun-invitro-d3-CD8.bw?raw=true
+shortLabel cJun-invitro-d3-CD8
+longLabel 2014_NAT_IMMUNOL_Kurachi___cJun-invitro-d3-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-Nfat1KO-CA-RIT-RV
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-Nfat1KO-CA-RIT-RV.bw?raw=true
+shortLabel Nfat1_invitro-CD8-Nfat1KO-CA-RIT-RV
+longLabel 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-Nfat1KO-CA-RIT-RV
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-Nfat1KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-Nfat1KO.bw?raw=true
+shortLabel Nfat1_invitro-CD8-Nfat1KO
+longLabel 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-Nfat1KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-Nfat1KO-CA-RIT-RV
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-Nfat1KO-CA-RIT-RV.bw?raw=true
+shortLabel Nfat1_invitro-CD8-PI-1h-Nfat1KO-CA-RIT-RV
+longLabel 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-Nfat1KO-CA-RIT-RV
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-Nfat1KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-Nfat1KO.bw?raw=true
+shortLabel Nfat1_invitro-CD8-PI-1h-Nfat1KO
+longLabel 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-Nfat1KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-WT.bw?raw=true
+shortLabel Nfat1_invitro-CD8-PI-1h-WT
+longLabel 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-PI-1h-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-WT.bw?raw=true
+shortLabel Nfat1_invitro-CD8-WT
+longLabel 2015_IMMUNITY_Martinez___Nfat1_invitro-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-Il12-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-Il12-WT.bw?raw=true
+shortLabel Tbet_LCMVarm-D8-CD8-Il12-WT
+longLabel 2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-Il12-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-WT.bw?raw=true
+shortLabel Tbet_LCMVarm-D8-CD8-WT
+longLabel 2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-Zeb2KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-Zeb2KO.bw?raw=true
+shortLabel Tbet_LCMVarm-D8-CD8-Zeb2KO
+longLabel 2015_JEM_Dominguez___Tbet_LCMVarm-D8-CD8-Zeb2KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2016_NAT_IMMUNOL_Roychoudhuri___JunD_invitro-stim-CD8-Bach2KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2016_NAT_IMMUNOL_Roychoudhuri___JunD_invitro-stim-CD8-Bach2KO.bw?raw=true
+shortLabel JunD_invitro-stim-CD8-Bach2KO
+longLabel 2016_NAT_IMMUNOL_Roychoudhuri___JunD_invitro-stim-CD8-Bach2KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2016_NAT_IMMUNOL_Roychoudhuri___JunD_invitro-stim-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2016_NAT_IMMUNOL_Roychoudhuri___JunD_invitro-stim-CD8-WT.bw?raw=true
+shortLabel JunD_invitro-stim-CD8-WT
+longLabel 2016_NAT_IMMUNOL_Roychoudhuri___JunD_invitro-stim-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2016_NAT_IMMUNOL_Roychoudhuri___p300_invitro-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2016_NAT_IMMUNOL_Roychoudhuri___p300_invitro-CD8-WT.bw?raw=true
+shortLabel p300_invitro-CD8-WT
+longLabel 2016_NAT_IMMUNOL_Roychoudhuri___p300_invitro-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2016_NAT_IMMUNOL_Xing___Tcf1_naive-CD8-Tcf1KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2016_NAT_IMMUNOL_Xing___Tcf1_naive-CD8-Tcf1KO.bw?raw=true
+shortLabel Tcf1_naive-CD8-Tcf1KO
+longLabel 2016_NAT_IMMUNOL_Xing___Tcf1_naive-CD8-Tcf1KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2016_NAT_IMMUNOL_Xing___Tcf1_naive-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2016_NAT_IMMUNOL_Xing___Tcf1_naive-CD8-WT.bw?raw=true
+shortLabel Tcf1_naive-CD8-WT
+longLabel 2016_NAT_IMMUNOL_Xing___Tcf1_naive-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2016_SCIENCE_Mackay___Blimp1-Bio_invitro-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2016_SCIENCE_Mackay___Blimp1-Bio_invitro-CD8.bw?raw=true
+shortLabel Blimp1-Bio_invitro-CD8
+longLabel 2016_SCIENCE_Mackay___Blimp1-Bio_invitro-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2016_SCIENCE_Mackay___Hobit_invitro-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2016_SCIENCE_Mackay___Hobit_invitro-CD8.bw?raw=true
+shortLabel Hobit_invitro-CD8
+longLabel 2016_SCIENCE_Mackay___Hobit_invitro-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___CBFb_LCMVarmD8_P14-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___CBFb_LCMVarmD8_P14-CD8-WT.bw?raw=true
+shortLabel CBFb_LCMVarmD8_P14-CD8-WT
+longLabel 2017_NAT_IMMUNOL_Shan___CBFb_LCMVarmD8_P14-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___CBFb_Naive_P14-CD8-CbfbKO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___CBFb_Naive_P14-CD8-CbfbKO.bw?raw=true
+shortLabel CBFb_Naive_P14-CD8-CbfbKO
+longLabel 2017_NAT_IMMUNOL_Shan___CBFb_Naive_P14-CD8-CbfbKO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___CBFb_Naive_P14-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___CBFb_Naive_P14-CD8-WT.bw?raw=true
+shortLabel CBFb_Naive_P14-CD8-WT
+longLabel 2017_NAT_IMMUNOL_Shan___CBFb_Naive_P14-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___H3K27Ac_LCMVarmD4-P14-CD8-Runx3KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___H3K27Ac_LCMVarmD4-P14-CD8-Runx3KO.bw?raw=true
+shortLabel H3K27Ac_LCMVarmD4-P14-CD8-Runx3KO
+longLabel 2017_NAT_IMMUNOL_Shan___H3K27Ac_LCMVarmD4-P14-CD8-Runx3KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___H3K27Ac_LCMVarmD4-P14-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___H3K27Ac_LCMVarmD4-P14-CD8-WT.bw?raw=true
+shortLabel H3K27Ac_LCMVarmD4-P14-CD8-WT
+longLabel 2017_NAT_IMMUNOL_Shan___H3K27Ac_LCMVarmD4-P14-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___H3K27Me3_LCMVarmD4-P14-CD8-Runx3KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___H3K27Me3_LCMVarmD4-P14-CD8-Runx3KO.bw?raw=true
+shortLabel H3K27Me3_LCMVarmD4-P14-CD8-Runx3KO
+longLabel 2017_NAT_IMMUNOL_Shan___H3K27Me3_LCMVarmD4-P14-CD8-Runx3KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___H3K27Me3_LCMVarmD4-P14-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___H3K27Me3_LCMVarmD4-P14-CD8-WT.bw?raw=true
+shortLabel H3K27Me3_LCMVarmD4-P14-CD8-WT
+longLabel 2017_NAT_IMMUNOL_Shan___H3K27Me3_LCMVarmD4-P14-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___H3K4Me1_LCMVarmD4-P14-CD8-Runx3KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___H3K4Me1_LCMVarmD4-P14-CD8-Runx3KO.bw?raw=true
+shortLabel H3K4Me1_LCMVarmD4-P14-CD8-Runx3KO
+longLabel 2017_NAT_IMMUNOL_Shan___H3K4Me1_LCMVarmD4-P14-CD8-Runx3KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___H3K4Me1_LCMVarmD4-P14-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___H3K4Me1_LCMVarmD4-P14-CD8-WT.bw?raw=true
+shortLabel H3K4Me1_LCMVarmD4-P14-CD8-WT
+longLabel 2017_NAT_IMMUNOL_Shan___H3K4Me1_LCMVarmD4-P14-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___H3K4Me3_LCMVarmD4-P14-CD8-Runx3KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___H3K4Me3_LCMVarmD4-P14-CD8-Runx3KO.bw?raw=true
+shortLabel H3K4Me3_LCMVarmD4-P14-CD8-Runx3KO
+longLabel 2017_NAT_IMMUNOL_Shan___H3K4Me3_LCMVarmD4-P14-CD8-Runx3KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Shan___H3K4Me3_LCMVarmD4-P14-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Shan___H3K4Me3_LCMVarmD4-P14-CD8-WT.bw?raw=true
+shortLabel H3K4Me3_LCMVarmD4-P14-CD8-WT
+longLabel 2017_NAT_IMMUNOL_Shan___H3K4Me3_LCMVarmD4-P14-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-MP
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-MP.bw?raw=true
+shortLabel H3K27ac_P14-CD8-MP
+longLabel 2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-MP
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-Memory
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-Memory.bw?raw=true
+shortLabel H3K27ac_P14-CD8-Memory
+longLabel 2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-Memory
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-TE
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-TE.bw?raw=true
+shortLabel H3K27ac_P14-CD8-TE
+longLabel 2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-TE
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-TN
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-TN.bw?raw=true
+shortLabel H3K27ac_P14-CD8-TN
+longLabel 2017_NAT_IMMUNOL_Yu___H3K27ac_P14-CD8-TN
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-MP
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-MP.bw?raw=true
+shortLabel H3K27me3_P14-CD8-MP
+longLabel 2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-MP
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-Memory
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-Memory.bw?raw=true
+shortLabel H3K27me3_P14-CD8-Memory
+longLabel 2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-Memory
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-TE
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-TE.bw?raw=true
+shortLabel H3K27me3_P14-CD8-TE
+longLabel 2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-TE
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-TN
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-TN.bw?raw=true
+shortLabel H3K27me3_P14-CD8-TN
+longLabel 2017_NAT_IMMUNOL_Yu___H3K27me3_P14-CD8-TN
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-MP
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-MP.bw?raw=true
+shortLabel H3K4me1_P14-CD8-MP
+longLabel 2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-MP
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-Memory
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-Memory.bw?raw=true
+shortLabel H3K4me1_P14-CD8-Memory
+longLabel 2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-Memory
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-TE
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-TE.bw?raw=true
+shortLabel H3K4me1_P14-CD8-TE
+longLabel 2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-TE
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-TN
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-TN.bw?raw=true
+shortLabel H3K4me1_P14-CD8-TN
+longLabel 2017_NAT_IMMUNOL_Yu___H3K4me1_P14-CD8-TN
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-MP
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-MP.bw?raw=true
+shortLabel H3K4me3_P14-CD8-MP
+longLabel 2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-MP
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-Memory
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-Memory.bw?raw=true
+shortLabel H3K4me3_P14-CD8-Memory
+longLabel 2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-Memory
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-TE
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-TE.bw?raw=true
+shortLabel H3K4me3_P14-CD8-TE
+longLabel 2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-TE
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-TN
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-TN.bw?raw=true
+shortLabel H3K4me3_P14-CD8-TN
+longLabel 2017_NAT_IMMUNOL_Yu___H3K4me3_P14-CD8-TN
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___H3K27Ac-noIL2-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___H3K27Ac-noIL2-CD4.bw?raw=true
+shortLabel H3K27Ac-noIL2-CD4
+longLabel 2017_PNAS_Li___H3K27Ac-noIL2-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___H3K27Ac_IL2-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___H3K27Ac_IL2-CD4.bw?raw=true
+shortLabel H3K27Ac_IL2-CD4
+longLabel 2017_PNAS_Li___H3K27Ac_IL2-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___H3K27Ac_IL2-IN1-deletion-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___H3K27Ac_IL2-IN1-deletion-CD4.bw?raw=true
+shortLabel H3K27Ac_IL2-IN1-deletion-CD4
+longLabel 2017_PNAS_Li___H3K27Ac_IL2-IN1-deletion-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___H3K27Ac_IL2-IN2-deletion-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___H3K27Ac_IL2-IN2-deletion-CD4.bw?raw=true
+shortLabel H3K27Ac_IL2-IN2-deletion-CD4
+longLabel 2017_PNAS_Li___H3K27Ac_IL2-IN2-deletion-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___H3K27Ac_IL2-UP-deletion-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___H3K27Ac_IL2-UP-deletion-CD4.bw?raw=true
+shortLabel H3K27Ac_IL2-UP-deletion-CD4
+longLabel 2017_PNAS_Li___H3K27Ac_IL2-UP-deletion-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___H3K27Ac_IL2-WT-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___H3K27Ac_IL2-WT-CD4.bw?raw=true
+shortLabel H3K27Ac_IL2-WT-CD4
+longLabel 2017_PNAS_Li___H3K27Ac_IL2-WT-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___H3K4me3-noIL2-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___H3K4me3-noIL2-CD4.bw?raw=true
+shortLabel H3K4me3-noIL2-CD4
+longLabel 2017_PNAS_Li___H3K4me3-noIL2-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___H3K4me3_IL2-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___H3K4me3_IL2-CD4.bw?raw=true
+shortLabel H3K4me3_IL2-CD4
+longLabel 2017_PNAS_Li___H3K4me3_IL2-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT3_IL21-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT3_IL21-CD4.bw?raw=true
+shortLabel STAT3_IL21-CD4
+longLabel 2017_PNAS_Li___STAT3_IL21-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT3_noIL21-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT3_noIL21-CD4.bw?raw=true
+shortLabel STAT3_noIL21-CD4
+longLabel 2017_PNAS_Li___STAT3_noIL21-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT5B_IL2-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT5B_IL2-CD4.bw?raw=true
+shortLabel STAT5B_IL2-CD4
+longLabel 2017_PNAS_Li___STAT5B_IL2-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT5B_IL2-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT5B_IL2-CD8.bw?raw=true
+shortLabel STAT5B_IL2-CD8
+longLabel 2017_PNAS_Li___STAT5B_IL2-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track 2017_PNAS_Li___STAT5B_IL2-IN1-deletion-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT5B_IL2-IN1-deletion-CD4.bw?raw=true
+shortLabel STAT5B_IL2-IN1-deletion-CD4
+longLabel 2017_PNAS_Li___STAT5B_IL2-IN1-deletion-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT5B_IL2-IN2-deletion-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT5B_IL2-IN2-deletion-CD4.bw?raw=true
+shortLabel STAT5B_IL2-IN2-deletion-CD4
+longLabel 2017_PNAS_Li___STAT5B_IL2-IN2-deletion-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT5B_IL2-UP-deletion-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT5B_IL2-UP-deletion-CD4.bw?raw=true
+shortLabel STAT5B_IL2-UP-deletion-CD4
+longLabel 2017_PNAS_Li___STAT5B_IL2-UP-deletion-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT5B_IL2-WT-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT5B_IL2-WT-CD4.bw?raw=true
+shortLabel STAT5B_IL2-WT-CD4
+longLabel 2017_PNAS_Li___STAT5B_IL2-WT-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT5B_noIL2-CD4
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT5B_noIL2-CD4.bw?raw=true
+shortLabel STAT5B_noIL2-CD4
+longLabel 2017_PNAS_Li___STAT5B_noIL2-CD4
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2017_PNAS_Li___STAT5B_noIL2-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2017_PNAS_Li___STAT5B_noIL2-CD8.bw?raw=true
+shortLabel STAT5B_noIL2-CD8
+longLabel 2017_PNAS_Li___STAT5B_noIL2-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility full
+
+track 2018_FRONTIERS_IMMUNOL_Li___Eomes_invitro-act-OTI-EomesOE
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2018_FRONTIERS_IMMUNOL_Li___Eomes_invitro-act-OTI-EomesOE.bw?raw=true
+shortLabel Eomes_invitro-act-OTI-EomesOE
+longLabel 2018_FRONTIERS_IMMUNOL_Li___Eomes_invitro-act-OTI-EomesOE
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2018_FRONTIERS_IMMUNOL_Li___Eomes_invitro-act-OTI-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2018_FRONTIERS_IMMUNOL_Li___Eomes_invitro-act-OTI-WT.bw?raw=true
+shortLabel Eomes_invitro-act-OTI-WT
+longLabel 2018_FRONTIERS_IMMUNOL_Li___Eomes_invitro-act-OTI-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2018_IMMUNITY_Page___Tox_LCMVova_CNS-OTI-CD8-ToxKO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2018_IMMUNITY_Page___Tox_LCMVova_CNS-OTI-CD8-ToxKO.bw?raw=true
+shortLabel Tox_LCMVova_CNS-OTI-CD8-ToxKO
+longLabel 2018_IMMUNITY_Page___Tox_LCMVova_CNS-OTI-CD8-ToxKO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2018_IMMUNITY_Page___Tox_LCMVova_CNS-OTI-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2018_IMMUNITY_Page___Tox_LCMVova_CNS-OTI-CD8-WT.bw?raw=true
+shortLabel Tox_LCMVova_CNS-OTI-CD8-WT
+longLabel 2018_IMMUNITY_Page___Tox_LCMVova_CNS-OTI-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2018_SCIENCE_Pace_native___H3K9me3_invitro-d3-CD8-Suv39h1KO
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2018_SCIENCE_Pace_native___H3K9me3_invitro-d3-CD8-Suv39h1KO.bw?raw=true
+shortLabel H3K9me3_invitro-d3-CD8-Suv39h1KO
+longLabel 2018_SCIENCE_Pace_native___H3K9me3_invitro-d3-CD8-Suv39h1KO
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2018_SCIENCE_Pace_native___H3K9me3_invitro-d3-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2018_SCIENCE_Pace_native___H3K9me3_invitro-d3-CD8-WT.bw?raw=true
+shortLabel H3K9me3_invitro-d3-CD8-WT
+longLabel 2018_SCIENCE_Pace_native___H3K9me3_invitro-d3-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2018_SCIENCE_Pace_native___H3K9me3_native_invitro-d0-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2018_SCIENCE_Pace_native___H3K9me3_native_invitro-d0-CD8-WT.bw?raw=true
+shortLabel H3K9me3_native_invitro-d0-CD8-WT
+longLabel 2018_SCIENCE_Pace_native___H3K9me3_native_invitro-d0-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2018_SCIENCE_Pace_native___H3K9me3_native_invitro-d3-CD8-WT
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2018_SCIENCE_Pace_native___H3K9me3_native_invitro-d3-CD8-WT.bw?raw=true
+shortLabel H3K9me3_native_invitro-d3-CD8-WT
+longLabel 2018_SCIENCE_Pace_native___H3K9me3_native_invitro-d3-CD8-WT
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2019_IMMUNITY_Veeken___Cbfb_LCMV-d07-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2019_IMMUNITY_Veeken___Cbfb_LCMV-d07-CD8.bw?raw=true
+shortLabel Cbfb_LCMV-d07-CD8
+longLabel 2019_IMMUNITY_Veeken___Cbfb_LCMV-d07-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2019_IMMUNITY_Veeken___Cbfb_NAV-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2019_IMMUNITY_Veeken___Cbfb_NAV-CD8.bw?raw=true
+shortLabel Cbfb_NAV-CD8
+longLabel 2019_IMMUNITY_Veeken___Cbfb_NAV-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2019_IMMUNITY_Veeken___Eomes_LCMV-d07-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2019_IMMUNITY_Veeken___Eomes_LCMV-d07-CD8.bw?raw=true
+shortLabel Eomes_LCMV-d07-CD8
+longLabel 2019_IMMUNITY_Veeken___Eomes_LCMV-d07-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2019_IMMUNITY_Veeken___Tbet_LCMV-d07-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2019_IMMUNITY_Veeken___Tbet_LCMV-d07-CD8.bw?raw=true
+shortLabel Tbet_LCMV-d07-CD8
+longLabel 2019_IMMUNITY_Veeken___Tbet_LCMV-d07-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2020_PNAS_KwesiMaliepaard___H3K4me3_mem-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2020_PNAS_KwesiMaliepaard___H3K4me3_mem-CD8.bw?raw=true
+shortLabel H3K4me3_mem-CD8
+longLabel 2020_PNAS_KwesiMaliepaard___H3K4me3_mem-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2020_PNAS_KwesiMaliepaard___H3K79me2_mem-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2020_PNAS_KwesiMaliepaard___H3K79me2_mem-CD8.bw?raw=true
+shortLabel H3K79me2_mem-CD8
+longLabel 2020_PNAS_KwesiMaliepaard___H3K79me2_mem-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2020_PNAS_KwesiMaliepaard___H3K79me2_naive-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2020_PNAS_KwesiMaliepaard___H3K79me2_naive-CD8.bw?raw=true
+shortLabel H3K79me2_naive-CD8
+longLabel 2020_PNAS_KwesiMaliepaard___H3K79me2_naive-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2021_GoldrathLab_Brd4___BRD4_MP-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2021_GoldrathLab_Brd4___BRD4_MP-CD8.bw?raw=true
+shortLabel BRD4_MP-CD8
+longLabel 2021_GoldrathLab_Brd4___BRD4_MP-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2021_GoldrathLab_Brd4___BRD4_NAV-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2021_GoldrathLab_Brd4___BRD4_NAV-CD8.bw?raw=true
+shortLabel BRD4_NAV-CD8
+longLabel 2021_GoldrathLab_Brd4___BRD4_NAV-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
+
+track 2021_GoldrathLab_Brd4___BRD4_TE-CD8
+bigDataUrl https://github.com/ScrippsPipkinLab/GenomeTracks/blob/main/202102_ChIP/2_MACS2_bw/2021_GoldrathLab_Brd4___BRD4_TE-CD8.bw?raw=true
+shortLabel BRD4_TE-CD8
+longLabel 2021_GoldrathLab_Brd4___BRD4_TE-CD8
+type bigWig
+html ./hub_info.html
+autoScale on
+visibility hide
