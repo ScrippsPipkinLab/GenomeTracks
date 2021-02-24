@@ -22,7 +22,7 @@ shortLabel H3K4me1_invitro-Il2-CD8
 longLabel 2013_PLOS_ONE_Lotem___H3K4me1_invitro-Il2-CD8
 type bigWig
 html ../hub_info.html
-type info.html
+type bigWig
 autoScale on
 visibility hide
 
